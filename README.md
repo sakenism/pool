@@ -1,2 +1,2 @@
 # pool
-my pool projects in School 42
+my pool projects at School 42
